@@ -1,0 +1,27 @@
+[submodule "learning-modules"]
+	path = learning-modules
+	url = https://github.com/mtitus575/Modules.git
+[submodule "projects/project-1"]
+	path = projects/project-1
+	url = https://github.com/mtitus575/reddit_client_app.git
+[submodule "projects/project-2"]
+	path = projects/project-2
+	url = https://github.com/mtitus575/movieDatabase.git
+[submodule "projects/project-3"]
+	path = projects/project-3
+	url = https://github.com/mtitus575/restaurant_menu_app.git
+[submodule "projects/project-4"]
+	path = projects/project-4
+	url = https://github.com/mtitus575/jammming.git
+[submodule "projects/project-5"]
+	path = projects/project-5
+	url = https://github.com/mtitus575/food_app.git
+[submodule "projects/project-6"]
+	path = projects/project-6
+	url = https://github.com/mtitus575/quiz_app.git
+[submodule "projects/project-7"]
+	path = projects/project-7
+	url = https://github.com/mtitus575/to_do_list.git
+[submodule "projects/project-8"]
+	path = projects/project-8
+	url = https://github.com/mtitus575/simple_calculator.git
